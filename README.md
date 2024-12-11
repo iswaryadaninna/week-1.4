@@ -1,4 +1,4 @@
-                                                                       Traffic Light Simulator
+                                                           Traffic Light Simulator
 Description:
               The Traffic Light Simulator is a simple, interactive web application that mimics the behavior of a real-world traffic light system. It simulates the cycling of three traffic light states: red, yellow, and green. The project is built using HTML, CSS, and JavaScript, and offers users the ability to manually control the traffic light cycle or automatically start the light-changing process at a timed interval.
 
